@@ -13,4 +13,4 @@
 7. internal and external navigations
 8. input tags
 
-To see the live demo go to [https://g13m13.github.io/coffee-junkee/](https://g13m13.github.io/coffee-junkee/)
+To see the live demo go to [Live Demo](https://g13m13.github.io/coffee-junkee/](https://g13m13.github.io/coffee-junkee/)
